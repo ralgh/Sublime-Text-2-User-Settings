@@ -1,0 +1,18 @@
+{
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"IndentGuides",
+		"SublimeCodeIntel",
+		"RestructuredText",
+		"C++",
+		"SublimeBrackets",
+		"Djaneiro",
+		"ActionScript",
+		"TCL",
+		"Clojure",
+		"Erlang",
+		"Lisp",
+		"Scala"
+	]
+}

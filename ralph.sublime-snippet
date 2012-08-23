@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+Yo Momma ${1:wears} ${2:army boots}.
+]]></content>
+    <tabTrigger>momma</tabTrigger>
+</snippet>

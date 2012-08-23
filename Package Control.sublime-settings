@@ -1,0 +1,40 @@
+{
+	"auto_upgrade_last_run": 1345579006,
+	"installed_packages":
+	[
+		"Default File Type",
+		"DetectSyntax",
+		"DocBlockr",
+		"EditorConfig",
+		"FileDiffs",
+		"Goto Drupal API",
+		"HTML Export",
+		"HTML5",
+		"iTodo",
+		"JsMinifier",
+		"LESS",
+		"LoremIpsum",
+		"MarkdownBuild",
+		"Package Control",
+		"Phix Color Scheme",
+		"Rake",
+		"Sass",
+		"Schemr",
+		"SideBarGit",
+		"Sublime Tweet",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SVN",
+		"Tag",
+		"Terminal",
+		"Theme - Nexus",
+		"Themr",
+		"Web Encoders"
+	],
+	"repositories":
+	[
+		"git://github.com/edspencer/Sencha.tmbundle.git",
+		"git://github.com/digal/st2-octopress.git",
+		" https://github.com/dnfehren/SublimeJekyll"
+	]
+}

@@ -1,0 +1,36 @@
+/* Sublime GitHub default settings */
+{
+    "github_token": "ae1167054c3cfe100b1f0ae2caede7411c049c67",
+    // The format of the each line in the list of gists.
+    // The value is either a Python format string, or a list of Python format
+    // strings. In the latter case, each element of the list will be a separate
+    // line in the select list.
+    // Valid parameters:
+    //    filename - filename of [first file in] gist
+    //    description - description of gist
+    //    index - 1-based index of gist in the list
+    // 
+    // Some things to try:
+    // "gist_list_format": "%(index)d. %(filename)s: %(description)s",
+    // "gist_list_format": ["%(filename)s", "%(description)s"],
+    "gist_list_format": "%(filename)s: %(description)s",
+    // If true, display the list of gists in a monospace font
+    "gist_list_monospace": false
+}
+
+//{
+//  "updated_at": "2012-03-22T11:53:39Z",
+//  "note_url": null,
+//  "url": "https://api.github.com/authorizations/274418",
+//  "note": null,
+//  "scopes": [
+//    "gist"
+//  ],
+//  "created_at": "2012-03-22T11:53:39Z",
+//  "token": "ae1167054c3cfe100b1f0ae2caede7411c049c67",
+//  "app": {
+//    "url": "http://developer.github.com/v3/oauth/#oauth-authorizations-api",
+//    "name": "GitHub API"
+//  },
+//  "id": 274418
+//}
